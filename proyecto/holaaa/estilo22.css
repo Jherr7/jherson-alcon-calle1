@@ -1,0 +1,150 @@
+*{margin: 0px;
+    background-color: rgb(7, 7, 7);}
+ p{
+    background-color: blue;
+ }
+.sombrero
+{
+    background-color: rgb(61, 118, 136);
+    width: 100px;
+    height: 80px;
+    position: fixed;
+    top: 50px;
+    left: 340px;
+}
+.copa
+{
+    background-color: rgb(61, 118, 136);
+    width: 200px;
+    height: 40px;
+    border-radius: 50%;
+    position: fixed;
+    top: 100px;
+    left: 290px;
+}
+.cabeza
+{
+    background-color: rgb(238, 235, 222);
+    width: 160px;
+    height: 160px;
+    border-radius: 100px;
+    position: fixed;
+    top: 110px;
+    left: 310px;
+}
+.ojo1
+{
+    background-color: rgb(0, 0, 0);
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    position: fixed;
+    top: 150px;
+    left: 350px;
+    border-style: solid;
+    border-width: 10px;
+    color: rgb(255, 255, 255);
+}
+.ojo2
+{
+    background-color: rgb(0, 0, 0);
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    position: fixed;
+    top: 150px;
+    left: 400px;
+    border-style: solid;
+    border-width: 10px;
+    color: rgb(255, 255, 255);
+}
+.nariz
+{
+    background-color: rgb(157, 236, 21);
+    width: 30px;
+    height: 10px;
+    position: fixed;
+    top: 180px;
+    left: 380px;
+    border-left: 45px;
+}
+.boca
+{
+    background-color: #ba3f3fe0;
+    width: 40px;
+    height: 5px;
+    position: fixed;
+    top: 220px;
+    left: 370px;
+
+}
+.torso
+{
+    background-color: rgb(238, 235, 222);
+    width: 200px;
+    height: 220px;
+    border-radius: 150px;
+    position: fixed;
+    top: 260px;
+    left: 295px;
+}
+.boton1
+{
+    background-color: rgb(97, 15, 227);
+    width: 25px;
+    height: 25px;
+    border-radius: 150px;
+    position: fixed;
+    top: 300px;
+    left: 380px;
+}
+.boton2
+{
+    background-color: rgb(17, 26, 199);
+    width: 25px;
+    height: 25px;
+    border-radius: 150px;
+    position: fixed;
+    top: 340px;
+    left: 380px;
+}
+.boton3
+{
+    background-color: rgb(24, 43, 214);
+    width: 25px;
+    height: 25px;
+    border-radius: 150px;
+    position: fixed;
+    top: 380px;
+    left: 380px;
+}
+.mano1
+{
+    background-color: rgb(218, 139, 75);
+    width: 180px;
+    height: 20px;
+    position: fixed;
+    top: 250px;
+    left: 150px;
+    transform: rotate(40deg);
+}
+.mano2
+{
+    background-color: rgb(218, 139, 75);
+    width: 180px;
+    height: 20px;
+    position: fixed;
+    top: 250px;
+    left: 460px;
+    transform: rotate(-40deg);
+}
+.pie1
+{
+    background-color: rgb(238, 235, 222);
+    width: 260px;
+    height: 220px;
+    border-radius: 200px;
+    position: fixed;
+    top: 450px;
+    left: 260px;
+}
